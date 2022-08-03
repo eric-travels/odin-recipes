@@ -2,10 +2,14 @@
     font-family: "Lucida Console", monospace;
 }
 
-.main-body{
+.main-body, .index-body{
     background-color: rgb(25, 26, 29);
     color:rgb(231, 231, 231);
-    margin: 30px;
+    margin: 50px;
+}
+
+.index-body{
+    text-align: center;
 }
 
 a{
