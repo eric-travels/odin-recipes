@@ -1,3 +1,23 @@
-main-page {
+* {
     font-family: "Lucida Console", monospace;
+}
+
+.main-body{
+    background-color: rgb(25, 26, 29);
+    color:rgb(231, 231, 231);
+    margin: 30px;
+}
+
+a{
+    color:rgb(231, 231, 231);
+    text-underline-offset: 3px;
+}
+
+.recipe-item, .recipe-step{
+    margin-bottom: 20px;
+}
+
+.recipe-intro{
+    text-align: center;
+    margin-bottom: 75px;
 }
