@@ -8,10 +8,6 @@
     margin: 50px;
 }
 
-.index-body{
-    text-align: center;
-}
-
 a{
     color:rgb(231, 231, 231);
     text-underline-offset: 3px;
@@ -24,4 +20,14 @@ a{
 .recipe-intro{
     text-align: center;
     margin-bottom: 75px;
+}
+
+.recipe-links{
+    text-align: center;
+    width:100vw;
+    height:100vh;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
