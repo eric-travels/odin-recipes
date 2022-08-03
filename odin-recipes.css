@@ -5,6 +5,9 @@
 .main-body, .index-body{
     background-color: rgb(25, 26, 29);
     color:rgb(231, 231, 231);
+}
+
+.main-body{
     margin: 50px;
 }
 
@@ -25,7 +28,7 @@ a{
 .recipe-links{
     text-align: center;
     width:100vw;
-    height:100vh;
+    height:90vh;
     margin:auto;
     display: flex;
     justify-content: center;
